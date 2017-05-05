@@ -1,0 +1,23 @@
+{
+    "name": "josdel91/yii2-widget-gentelellasidenav",
+    "description": "An enhanced side navigation menu styled for bootstrap based on HTML/CSS gentelella template",
+    "keywords": ["yii2", "extension", "widget", "sidenav", "navigation", "menu", "html", "bootstrap", "jquery", "plugin"],
+    "homepage": "https://github.com/josdel91/yii2-widget-gentelellasidenav",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "Jospin Tedjou",
+            "email": "tedjoujospin@yahoo.fr",
+            "homepage": "http://www.krajee.com/"
+        }
+    ],
+    "require": {
+        "kartik-v/yii2-widget-kartik": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kartik\\sidenav\\": ""
+        }
+    }
+}

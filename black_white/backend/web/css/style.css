@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1 sept. 2016, 12:42:19
+    Author     : yvan
+*/
+
+#login-form {
+    max-width: 330px;
+    margin: 175px auto 0;
+    background: #fff;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+#reset-password-form {
+    max-width: 330px;
+    margin: 175px auto 0;
+    background: #fff;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+#header-form {
+    margin: 0;
+    padding: 25px 20px;
+    text-align: center;
+    background: rgba(118,181,211,0.9);
+    border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+#wrapper-form {
+    padding: 20px;
+}
+
+.btn-theme {
+  color: #fff;
+  background-color: rgba(118,181,211,0.9);
+  border-color: #48bcb4;
+}
+.btn-theme:hover,
+.btn-theme:focus,
+.btn-theme:active,
+
+.footer {
+    margin: auto;
+}
+
+#error-div {
+    max-width: 400px;
+    padding: 20px;
+    margin: 75px auto 0;
+    background: #2A3F54;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
